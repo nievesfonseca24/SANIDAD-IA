@@ -8,3 +8,4 @@ scikit-learn
 pillow
 streamlit-option-menu
 requests
+openpyxl  # Para leer archivos Excel
